@@ -1,0 +1,6 @@
+[submodule "vendor/github.com/aws/aws-sdk-go"]
+	path = vendor/github.com/aws/aws-sdk-go
+	url = git://github.com/aws/aws-sdk-go.git
+[submodule "vendor/github.com/urfave/cli"]
+	path = vendor/github.com/urfave/cli
+	url = git://github.com/urfave/cli.git
