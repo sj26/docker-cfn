@@ -1,6 +1,6 @@
 NAME=cfn
 VERSION=$(git describe)
-LDFLAGS=-ldflags "-X github.com/sj26/go-cfn/main.Version=${VERSION}"
+LDFLAGS=-ldflags "-X github.com/sj26/docker-cfn/main.Version=${VERSION}"
 CGO_ENABLED=0
 
 build/cfn:
